@@ -1,4 +1,4 @@
 github "wh1pch81n/Bridge-iOS-SDK" "carthage"
-github "wh1pch81n/CMSupport"
+github "wh1pch81n/CMSSupport"
 github "wh1pch81n/ResearchKit"
 github "wh1pch81n/ZipZap"
